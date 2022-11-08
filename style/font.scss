@@ -1,0 +1,39 @@
+.ts {
+  &-title-01 {
+    font-size: clamp(1rem, 3vw, 2.5rem);
+  }
+  &-title-02 {
+    font-size: clamp(1rem, 4vw, 3rem);
+  }
+  &-title-03 {
+    font-size: clamp(1.3rem, 4.5vw, 3.5rem);
+  }
+  &-title-04 {
+    font-size: clamp(1.5rem, 5vw, 4rem);
+  }
+  &-title-05 {
+    font-size: clamp(2rem, 5.2vw, 4.5rem);
+  }
+  &-title-06 {
+    font-size: clamp(2.5rem, 6vw, 5rem);
+  }
+  //   description style
+  &-desc-01 {
+    font-size: clamp(1rem, 1vw, 1.1rem);
+  }
+  &-desc-02 {
+    font-size: clamp(1rem, 1.3vw, 1.2rem);
+  }
+  &-desc-03 {
+    font-size: clamp(1rem, 1.5vw, 1.4rem);
+  }
+  &-desc-04 {
+    font-size: clamp(1rem, 1.8vw, 1.6rem);
+  }
+  &-desc-05 {
+    font-size: clamp(1rem, 2vw, 1.8rem);
+  }
+  &-desc-06 {
+    font-size: clamp(1rem, 2.2vw, 2rem);
+  }
+}
